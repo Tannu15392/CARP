@@ -44,3 +44,4 @@ cd findit-backend
 node scripts/makeAdmin.js you@college.edu
 ```
 Then log out/in and you'll see a new "📊 Admin" tab in the navbar.
+LINK - https://major-project-byrve3m1r-tannuchandola441-3132s-projects.vercel.app/
